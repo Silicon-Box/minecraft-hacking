@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Our golden chick",
+    "name": "Gold Chick",
+    "uuid": "81e1a60f-bd10-4916-8e1a-b807fb0a9487",
+    "version": [0, 0, 1],
+    "min_engine_version": [1, 19, 41]
+  },
+  "modules": [
+    {
+      "description": "Our golden chick",
+      "type": "resources",
+      "uuid": "c56335fb-1ca2-4c03-881f-377cf18f5b40",
+      "version": [0, 0, 1]
+    }
+  ]
+}
